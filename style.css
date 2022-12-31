@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{    
+    font-size: 40px;
+}
+.name-highlight{
+    color: aqua;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    margin-left: 0%;
+    padding-left: 0%;
+}
+.half-width img{
+    width:100%
+}
